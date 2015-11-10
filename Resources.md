@@ -44,6 +44,7 @@ Code needs to live somewhere that isn't your computer. It needs to have a histor
 ### HTML & CSS
 The structure and design of the Web (and many mobile apps).
 - [ ] [HTML & CSS Basics](http://learn.shayhowe.com/html-css/)
+- [ ] [HTML & CSS Advanced](http://learn.shayhowe.com/advanced-html-css/)
 - [ ] [Web Track - Codecademy](http://www.codecademy.com/tracks/web)
 - [ ] [Front End Foundations - CodeSchool](https://www.codeschool.com/courses/front-end-foundations) 
 
