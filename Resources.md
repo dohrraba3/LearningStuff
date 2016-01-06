@@ -1,7 +1,7 @@
 ## Setup
 
 ### Text Editor Options
-This is a program you are going to use A LOT. In order for us to create and edit code and not go crazy, neither TextEdit nor (shudder) Notepad will do--we need colors! We need smart indenting! Your text edior will be where you write and reason about your code. 
+This is a program you are going to use A LOT. In order to create and edit code and not go crazy, neither TextEdit nor (shudder) Notepad will do--we need colors! We need smart indenting! Your text edior will be where you write and reason about your code. 
 
 Find one that works for/interests you. 
 - [ ] [Atom](https://atom.io) _(recommended)_
@@ -23,8 +23,7 @@ The command line can seem imposing and scary the first few times you're interact
 
 ### Create a GitHub Account
 GitHub is the industry's standard code host. Use it to store your code in its online repositories and use it for collaboration, versioning, static website hosting and much more! Some notes:
-* _Please_ use your real name and make your avatar a picture of yourself 
-* Usernames typically are first letter of your first name and then your last name. However, any variation of your name will do.
+* Pick a username easy to remember and make your avatar a picture of yourself 
 
 - [ ] [GitHub's Website](https://github.com)
 
