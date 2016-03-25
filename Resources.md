@@ -18,7 +18,7 @@ The command line (or "terminal") is the gateway to your computer's internals. It
 
 The command line can seem imposing and scary the first few times you're interacting with it. But: the two tools we're going to use the most as front end developers are the command line and a simple text editor, so we need to get comfortable with it.
 - [ ] [What is Command Line](http://skillcrush.com/2012/12/03/command-line-2/)
-- [ ] [Learn the Command Line - Codecademy](https://www.codecademy.com/courses/learn-the-command-line) 
+- [ ] [Learn the Command Line - Codecademy](https://www.codecademy.com/courses/learn-the-command-line) (REQUIRED)
 - [ ] Check out my [how-tos writeup on a number of command line basics](../how-tos/bash_basics.md) 
 
 ### Create a GitHub Account
@@ -31,7 +31,7 @@ _why is this important?_  Because you want to be able to show what you've done. 
 
 ### Git/GitHub
 Code needs to live somewhere that isn't your computer. It needs to have a history, and you will need to collaborate with others. Required for the working world.
-- [ ] [TryGit - CodeSchool](https://www.codeschool.com/courses/try-git) 
+- [ ] [TryGit - CodeSchool](https://www.codeschool.com/courses/try-git) (REQUIRED)
 - [ ] [Git- Treehouse course](https://teamtreehouse.com/library/git-basics) _Note: Treehouse requires a paid monthly subscription after 2 weeks_
 - [ ] [What is Git - READ](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 - [ ] [Git Exercises](https://try.github.io/levels/1/challenges/1)
@@ -42,17 +42,16 @@ Code needs to live somewhere that isn't your computer. It needs to have a histor
 
 ### HTML & CSS
 The structure and design of the Web (and many mobile apps).
-- [ ] [HTML & CSS Basics](http://learn.shayhowe.com/html-css/)
-- [ ] [HTML & CSS Advanced](http://learn.shayhowe.com/advanced-html-css/)
-- [ ] [Web Track - Codecademy](http://www.codecademy.com/tracks/web)
-- [ ] [Front End Foundations - CodeSchool](https://www.codeschool.com/courses/front-end-foundations) 
+- [ ] [Web Track - Codecademy](http://www.codecademy.com/tracks/web)(REQUIRED)
+- [ ] [HTML & CSS Basics](http://learn.shayhowe.com/html-css/) (OPTIONAL)
+- [ ] [HTML & CSS Advanced](http://learn.shayhowe.com/advanced-html-css/) (OPTIONAL)
+- [ ] [Front End Foundations - CodeSchool](https://www.codeschool.com/courses/front-end-foundations) (OPTIONAL)
 
 ### JavaScript
 JavaScript is necessary for EVERY software job you will ever have. 
-- [ ] [JavaScript Track - Codecademy](http://www.codecademy.com/tracks/javascript) 
-- [ ] [JavaScript.com](http://www.javascript.com)
+- [ ] [JavaScript Track - Codecademy](http://www.codecademy.com/tracks/javascript) (REQUIRED)
+- [ ] [JavaScript.com](http://www.javascript.com)(RECOMMENDED)
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net/) Good overview book as you're doing exercises
-- [ ] [JavaScript Roadtrip - CodeSchool](http://javascript-roadtrip.codeschool.com)
-- [ ] [FreeCodeCamp](http://www.freecodecamp.com) This starts with html/css and goes through JavaScript
+- [ ] [JavaScript Roadtrip - CodeSchool](http://javascript-roadtrip.codeschool.com) (RECOMMENDED)
 
 
